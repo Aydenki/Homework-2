@@ -25,9 +25,6 @@ class ViewController: UIViewController {
         Madlib.text = "The Smart " +
         Color.text! +
         " " + Animal.text! + " jumps over the tree."
-        ;
-        "to get the " +
-        Icecream.text! + " flavored icecream."
         
     }
     
